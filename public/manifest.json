@@ -1,11 +1,12 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Tweet Component",
+  "name": "static tweet component",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://github.com/Martin-Ocean/my-avatar/blob/master/myAvatar%20200x200.png
+",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
     }
   ],
   "start_url": "./index.html",

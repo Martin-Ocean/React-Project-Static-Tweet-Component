@@ -50,7 +50,7 @@ const NameWithHandle = () => {
 }
 
 const Time = () => (
-  <span className="fa fa-reply reply-button"/>
+  <span className="time"> 2h ago </span> 
 );
 
 const ReplyButton = () => (
